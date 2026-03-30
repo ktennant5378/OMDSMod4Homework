@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "cosmosdbkt_canada"
+            "value": "cosmos-db-kt-canada"
         },
         "location": {
             "value": "canadacentral"
